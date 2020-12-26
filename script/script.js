@@ -42,7 +42,7 @@ const bupUpgradeCosts = [
   Infinity,Infinity,8e8,1e11,
   Infinity,Infinity,2e19,1e21
 ];
-const slugMile = [1e10, 20, 15, 12, 10, 1, -1];
+const slugMile = [24, 20, 15, 12, 10, 1, -1];
 let totalMult = 1;
 let buptotalMute = 1;
 const challengeGoals = [
